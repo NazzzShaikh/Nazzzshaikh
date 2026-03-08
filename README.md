@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **NazzzShaikh/Nazzzshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋 I'm Naznin</h1>
+<h1 align="center">Hi There👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Naznin+Shaikh+Computer+Engineering+Student;&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Naznin+Shaikh+Computer+Engineering+Student  ;&center=true&width=500&height=45">
 </p>
 
 <p align="center">
