@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi There👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Naznin+Shaikh+Computer+Engineering+Student .;&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Naznin+Shaikh+Computer+Engineering+Student&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -29,15 +29,23 @@ Here are some ideas to get you started:
 # 🚀 About Me
 
 🎓 Computer Engineering Student
+
 💻 Passionate about Software Development & AI/ML
+
 🌱 Currently learning **Springboot**
+
 🤝 Love collaborating, building projects, and helping others
+
 ✨ I enjoy solving problems and turning ideas into real applications
 
-• 🔭 Currently building: **Smart Bakery Ordering System** (React + Node.js + MongoDB)
-• 📚 Working on: **Smart Student Career Path Recommender System (Django + ML)**
-• 💡 Exploring: **Machine Learning, Data Science & Backend Systems**
-• ⚡ Fun fact: I love **deep conversations and ice cream** 🍦
+
+🔭 Currently building: **Smart Bakery Ordering System** (React + Node.js + MongoDB)
+
+📚 Working on: **Smart Student Career Path Recommender System (Django + ML)**
+
+💡 Exploring: **Springboot Machine Learning, Data Science & Backend Systems**
+
+⚡ Fun fact: I love **deep conversations and ice cream** 🍦
 
 ---
 
