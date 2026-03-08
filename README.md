@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋 I'm Naznin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Full+Stack+Developer;Machine+Learning+Explorer;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Naznin+Shaikh+Computer+Engineering+Student;&center=true&width=500&height=45">
 </p>
 
 <p align="center">
