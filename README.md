@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🔭 Currently building: **** (React + Node.js + MongoDB)
 -->
 <h1 align="center">Hi There👋</h1>
 
@@ -30,22 +31,14 @@ Here are some ideas to get you started:
 
 🎓 Computer Engineering Student
 
-💻 Passionate about Software Development & AI/ML
+💻 Passionate about building **real-world full-stack projects**
 
-🌱 Currently learning **Springboot**
+🌱 Currently learning **Springboot and Microservices**
 
 🤝 Love collaborating, building projects, and helping others
 
 ✨ I enjoy solving problems and turning ideas into real applications
 
-
-🔭 Currently building: **Smart Bakery Ordering System** (React + Node.js + MongoDB)
-
-📚 Working on: **Smart Student Career Path Recommender System (Django + ML)**
-
-💡 Exploring: **Springboot Machine Learning, Data Science & Backend Systems**
-
-⚡ Fun fact: I love **deep conversations and ice cream** 🍦
 
 ---
 
@@ -69,25 +62,19 @@ Here are some ideas to get you started:
 
 ---
 
-# 📂 Featured Projects
-
-### 🧁 Smart Bakery Ordering System
-
-Full stack application with authentication, product filtering, cart, order tracking and admin dashboard.
-
-### 🎓 Smart Student Career Path Recommender
-
-Machine learning based system that suggests career paths based on students' skills and interests.
-
-### 🛒 Smart Shopping Budget Optimizer
-
-Uses **0/1 Knapsack Algorithm with Dynamic Programming Visualizer** to optimize shopping within a budget.
-
-### 📓 Journal App
-
-Spring Boot REST API for creating and managing journal entries.
+## 🔥 Current Focus
+- Deep dive into **Spring Boot**
+- Learning **Microservices Architecture**
+- Improving **Problem Solving Skills**
 
 ---
+
+## 🤝 Let's Connect
+- 💼 Open for collaboration & freelance opportunities
+- 📫 Reach me: *nazshaikh2529@gmail.com*
+
+---
+
 
 # 📊 GitHub Stats
 
