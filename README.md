@@ -12,6 +12,7 @@
 
 ---
 
+
 ## 🚀 About Me
 
 🎓 Computer Engineering Student  
@@ -61,8 +62,6 @@
 - 🧠 Data Structures & Problem Solving  
 
 ---
-
-
 
 ## 🤝 Let's Connect
 
