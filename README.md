@@ -105,6 +105,23 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nazzzshaikh&theme=tokyonight"/>
 </p>
 
+---
+
+---
+
+## 🌐 Other Profiles
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/shaikhnaz5290">
+    <img src="https://img.shields.io/badge/HackerRank-shaikhnaz5290-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  
+  <a href="https://leetcode.com/u/csyJCjdf2D/">
+    <img src="https://img.shields.io/badge/LeetCode-csyJCjdf2D-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+---
 <p align="center">
 💎 <b>Always learning, always building 🚀</b>
 </p>
