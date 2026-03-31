@@ -82,16 +82,13 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nazzzshaikh&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nazzzshaikh&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Nazzzshaikh&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nazzzshaikh&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazzzshaikh&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nazzzshaikh&layout=compact&theme=tokyonight" height="160"/>
+</p>-->
 
 ---
 
@@ -107,7 +104,6 @@
 
 ---
 
----
 
 ## 🌐 Other Profiles
 
